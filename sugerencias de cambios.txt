@@ -1,0 +1,9 @@
+1. los links de la parte superior, para moverme a los otros modulos de la pagina web no tienen ninguna accion.
+2. cambiar el color de fondo del banner superior, colocarlo blanco, para que el logo se vea bien y no como resaltante, ademas contrasta el blanco con el azul 
+de la imagen principal.
+3. formulario que pide nombre, mail y que tiene boton "get your information" volarlo.
+4. colores similares a los del logotipo
+5. el logotipo que significa la flor ? 
+6. me gusta mucho el objeto que se expande para dar mas información cuando se le hace click.
+7. avalon de imagen de fondo en el formulario de contacto.
+8. nuestros clintes solo los logotipos con fondo del mismo color de la pagina web.
