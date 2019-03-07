@@ -2,4 +2,4 @@
 Página web de Avalon.
 
 
-Se utiliza el Bootstrap
+Se utiliza el Framework Bootstrap
