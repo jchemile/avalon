@@ -3,8 +3,8 @@
     opacity: .9;
 }
 
-.navbar .collapse .navbar-nav .nav-item{
-    color : #fff;
+.navbar  .navbar-nav .nav-item{
+    color : #000000;  
 }
 
 .main-header{
